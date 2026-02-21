@@ -1,0 +1,5 @@
+services:
+  painel:
+    build: .
+    ports:
+      - "80"
